@@ -35,6 +35,7 @@ int main(){
         cin >> arr[i];
     }
     bubblesort(size_of_array, arr);
+    
     cout << "The sorted array is: ";
     for(int i=0;i<size_of_array;i++)
     {
